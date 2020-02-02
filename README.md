@@ -1,4 +1,4 @@
 # Switcher
-Theme switcher light/dark theme header website
+Theme switcher light/dark theme with typescript
 
 
